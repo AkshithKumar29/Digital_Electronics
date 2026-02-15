@@ -1,0 +1,10 @@
+# Verilog simulation files
+*.vcd
+*.out
+*.vvp
+*.lxt
+*.lx2
+
+# OS files
+.DS_Store
+Thumbs.db
